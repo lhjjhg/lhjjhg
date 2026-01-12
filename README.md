@@ -14,7 +14,7 @@
 
 ### 🛠 Tech Stack (Learning...)
 
-> 현재 익히고 있거나 관심 있는 기술들입니다. (분야에 맞춰 수정해 보세요!)
+> 현재 익히고 있거나 관심 있는 기술들입니다. 
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -31,8 +31,8 @@
 ### 📊 Github Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인의ID입력&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=본인의ID입력&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lhjjhg&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lhjjhg&theme=radical" />
 </p>
 
 ---
