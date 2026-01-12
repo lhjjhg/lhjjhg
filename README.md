@@ -31,17 +31,17 @@
 ### 📊 Github Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lhjjhg&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lhjjhg&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lhjjhg@naver.com&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lhjjhg@naver.com&theme=radical" />
 </p>
 
 ---
 
 ### 📫 Contact
 
-- **Email** : 본인의이메일@example.com
-- **Blog** : [블로그 주소가 있다면 링크](https://link.com)
+- **Email** : lhjjhg@naver.com
+- **Blog** : ~~
 
 <div align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F본인의ID입력&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flhjjhg@naver.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </div>
