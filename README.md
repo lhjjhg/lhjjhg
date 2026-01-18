@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00bfff&secondaryColor=0000ff&height=300&section=header&text=hyungu's%20github&fontSize=80&align=right&x=90)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=HYUNGU's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 ## "어제보다 오늘 더 성장하는, 끊임없이 배우는 개발자입니다."
 
 - 🌱 현재 다양한 기술 스택을 탐색하며 나만의 길을 찾아가는 중입니다.
