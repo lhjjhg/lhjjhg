@@ -1,10 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hyungu's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00bfff&secondaryColor=0000ff&height=300&section=header&text=hyungu's%20github&fontSize=80&align=right&x=90)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=bars&color=auto&height=200&section=header&text=Jung%20Hyun-Gu&fontSize=90" />
-</div>
-
-### "어제보다 오늘 더 성장하는, 끊임없이 배우는 개발자입니다."
+## "어제보다 오늘 더 성장하는, 끊임없이 배우는 개발자입니다."
 
 - 🌱 현재 다양한 기술 스택을 탐색하며 나만의 길을 찾아가는 중입니다.
 - 💻 어떤 문제든 끝까지 해결하려는 **열정**과 **성실함**을 무기로 공부하고 있습니다.
@@ -12,36 +8,30 @@
 
 ---
 
-### 🛠 Tech Stack (Learning...)
+## 🛠 Tech Stack (Learning...)
 
-> 현재 익히고 있거나 관심 있는 기술들입니다. 
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
+### Backend
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
----
-
-### 📊 Github Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lhjjhg@naver.com&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lhjjhg@naver.com&theme=radical" />
-</p>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
 ---
 
 ### 📫 Contact
 
 - **Email** : lhjjhg@naver.com
-- **Blog** : ~~
-
-<div align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flhjjhg@naver.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-</div>
