@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 정현구입니다!
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hyungu's%20github&fontSize=90)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=bars&color=auto&height=200&section=header&text=Jung%20Hyun-Gu&fontSize=90" />
